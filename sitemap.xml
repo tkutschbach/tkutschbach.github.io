@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://tkutschbach.github.io/</loc>
-         <lastmod>2025-04-12</lastmod>
+         <lastmod>2025-04-17</lastmod>
+    </url>
+    <url>
+         <loc>https://tkutschbach.github.io/2025/04/17/new-website-with-blog-and-minor-rst-tace-update/</loc>
+         <lastmod>2025-04-17</lastmod>
+    </url>
+    <url>
+         <loc>https://tkutschbach.github.io/archive/2025/</loc>
+         <lastmod>2025-04-17</lastmod>
     </url>
 </urlset>
